@@ -1,0 +1,121 @@
+{
+	"Name": "Candy Dark",
+	"MainMenu": {
+		"IntroButton": {
+			"NormalColor": [82, 215, 240, 255],
+			"HighlightedColor": [163, 238, 255, 255],
+			"PressedColor": [0, 78, 90, 255]
+		}
+	},
+	"DefaultPanel": {
+		"MainBody": {
+			"BackgroundColor": [0, 31, 37, 255],
+			"BorderColor": [0, 78, 90, 255],
+			"TitleColor": [163, 238, 255, 255],
+			"VerticalLineColor": [0, 78, 90, 255],
+			"HorizontalLineColor": [0, 78, 90, 255],
+			"TopBarColor": [0, 78, 90, 255],
+			"BottomBarColor": [0, 78, 90, 255],
+			"ScrollbarBackgroundColor": [0, 31, 37, 255],
+			"ScrollbarNormalColor": [0, 78, 90, 255],
+			"ScrollbarHighlightedColor": [163, 238, 255, 255],
+			"ScrollbarPressedColor": [82, 215, 240, 255]
+		},
+		"DefaultButton": {
+			"NormalColor": [94, 17, 50, 255],
+			"HighlightedColor": [100, 100, 100, 255],
+			"PressedColor": [123, 41, 73, 255],
+			"TextColor": [255, 255, 255, 255]
+		},
+		"CategoryButton": {
+			"NormalColor": [163, 238, 255, 255],
+			"HighlightedColor": [255, 217, 226, 255],
+			"PressedColor": [255, 177, 200, 255]
+		},
+		"DefaultLabel": {
+			"TextColor": [255, 255, 255, 255]
+		},
+		"DefaultSetting": {
+			"TextColor": [255, 177, 200, 255],
+			"IconNormalColor": [123, 41, 73, 255],
+			"IconHighlightedColor": [100, 100, 100, 255],
+			"IconPressedColor": [123, 41, 73, 255],
+			"TooltipBackgroundColor": [63, 72, 75, 255],
+			"TooltipTextColor": [191, 200, 203, 255],
+			"ToggleNormalColor": [94, 17, 50, 255],
+			"ToggleHighlightedColor": [100, 100, 100, 255],
+			"TogglePressedColor": [123, 41, 73, 255],
+			"ToggleFilledColor": [255, 177, 200, 255],
+			"InputTextColor": [255, 177, 200, 255],
+			"InputNormalColor": [94, 17, 50, 255],
+			"InputHighlightedColor": [59, 71, 84, 255],
+			"InputPressedColor": [123, 41, 73, 255],
+			"InputSelectionColor": [255, 217, 226, 255],
+			"DropdownTextColor": [255, 177, 200, 255],
+			"DropdownNormalColor": [94, 17, 50, 255],
+			"DropdownHighlightedColor": [100, 100, 100, 255],
+			"DropdownPressedColor": [123, 41, 73, 255],
+			"DropdownBorderColor": [0, 0, 0, 255],
+			"DropdownScrollbarBackgroundColor": [0, 31, 37, 255],
+			"DropdownScrollbarNormalColor": [0, 78, 90, 255],
+			"DropdownScrollbarHighlightedColor": [163, 238, 255, 255],
+			"DropdownScrollbarPressedColor": [82, 215, 240, 255],
+			"KeybindTextColor": [255, 177, 200, 255],
+			"KeybindNormalColor": [83, 101, 125, 255],
+			"KeybindHighlightedColor": [118, 151, 193, 255],
+			"KeybindPressedColor": [91, 117, 148, 255],
+			"SliderBackgroundColor": [94, 17, 50, 255],
+			"SliderFillColor": [123, 41, 73, 255],
+			"SliderHandleColor": [255, 217, 226, 255]
+		}
+	},
+	"MultiplayerMapPopup": {
+		"MainBody": {
+			"BackgroundColor":[0, 31, 37, 255],
+			"MapColor": [0, 78, 90, 255]
+		},
+		"DefaultButton": {
+			"NormalColor": [94, 17, 50, 255],
+			"HighlightedColor": [100, 100, 100, 255],
+			"PressedColor": [123, 41, 73, 255],
+			"TextColor": [255, 255, 255, 255]
+		}
+	},
+	"MultiplayerRoomListPopup": {
+		"MainBody": {
+			"BackgroundColor": [0, 31, 37, 255]
+		},
+		"DefaultButton": {
+			"NormalColor": [94, 17, 50, 255],
+			"HighlightedColor": [100, 100, 100, 255],
+			"PressedColor": [123, 41, 73, 255],
+			"TextColor": [255, 255, 255, 255]
+		},
+		"RoomButton": {
+			"NormalColor": [255, 255, 255, 0],
+			"HighlightedColor": [137, 144, 154, 86],
+			"PressedColor": [88, 93, 99, 86],
+			"TextColor": [255, 255, 255, 255]
+		}
+	},
+	"QuestPopup": {
+		"QuestHeader": {
+			"ResetTextColor": [255, 255, 255, 255]
+		},
+		"QuestItem": {
+			"BackgroundColor": [0, 31, 37, 255],
+			"BorderColor": [0, 78, 90, 255],
+			"IconColor": [0, 125, 176, 255],
+			"CheckColor": [0, 125, 176, 255],
+			"TextColor": [255, 177, 200, 255],
+			"ProgressBarBackgroundColor": [140, 160, 180, 255],
+			"ProgressBarFillColor": [0, 125, 176, 255]
+		},
+		"Trophy": {
+			"TextColor": [255, 177, 200, 255],
+			"BronzeColor": [176, 141, 87, 255],
+			"SilverColor": [211, 211, 211, 255],
+			"GoldColor": [255, 215, 0, 255]
+		}
+	}
+}
